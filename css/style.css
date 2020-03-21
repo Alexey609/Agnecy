@@ -1,0 +1,201 @@
+html, body {
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+  height: 70px;
+}
+
+ul.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 0 0 15%;
+}
+
+.portf {
+  margin: 5% 0 0 0;
+} 
+
+.greetings {
+  margin: 10% 0 0 10%;
+}
+
+.bt1 {
+  margin: 10% 25% 0 0;
+}
+
+.vidio {
+  margin: 15% 0 0 20%;
+}
+
+.line {
+  display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 5% 0 0 0;
+}
+
+.line2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 5% 0 0 0;
+}
+
+.line3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 5% 0 0 0;
+}
+
+.b2 {
+  margin: 0 0 0 2%;
+}
+
+.line4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 5% 0 0 0;
+}
+
+.line5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 5% 0 0 4%;
+}
+
+.line6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 5% 0 0 0;
+}
+
+.title-3page {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ margin: 3% 0 0 0;
+}
+
+.b3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: space-between;
+  margin: 0 0 0 0;
+}
+
+.b4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: space-between;
+  margin: 0 0 0 0;
+}
+
+.pic-line {
+  margin: 4% 0 0 0;
+}
+
+.pic-line2 {
+  margin: 5% 0 0 0;
+}
+
+ul.navbar-nav-light {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70%;
+  margin: 0 0 0 15%;
+}
+
+ul.navbar-nav-light li a {
+  text-decoration:none;
+	color: black;
+}
+
+
+
+ul.navbar-nav-light li a:hover {
+  color: rgb(133, 15, 15);
+}
+
+.get {
+  margin: 10% 0 0 0;
+}
+
+.b5 {
+  margin: 5% 0 0 3%;
+}
+
+.forms {
+  margin: 5% 0 0 0%;
+}
+
+.form-group {
+  margin: 2% 0 0 0%;
+}
+
+.grey-cont {
+  margin: 0 0 0 10%;
+  width: 80%;
+  height: 100%;
+  background-color:  rgb(31, 29, 29);
+  color: rgb(31, 29, 29);
+  border-radius: 5px 5px;
+}
+
+.bt2 {
+  margin: 4% 0 0 20%;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: right;
+}
+
+.footer {
+  margin: 6% 0 0 0;
+  width: 100%;
+  height: 60px;
+  background-color:  rgb(31, 29, 29);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+ul.icons {
+  /* display: inline;  */
+  margin: 0 0 0 45%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 20%;
+}
+
+.fa-twitter {
+  color: white;
+}
+
+.fa-invision {
+  color: white;
+}
+
+.fa-google-plus {
+  color: white;
+}
+
+.fa-facebook {
+  color: white;
+}
